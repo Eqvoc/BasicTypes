@@ -1,0 +1,1 @@
+javac Money.java && java Money
